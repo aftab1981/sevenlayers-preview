@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /quote/confirmed
+Disallow: /admin
+Disallow: /api/
+
+Sitemap: https://www.sevenlayers.online/sitemap.xml

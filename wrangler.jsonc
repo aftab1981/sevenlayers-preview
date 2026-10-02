@@ -1,0 +1,30 @@
+// Cloudflare Worker config for the published site. It rides along in the
+// build output so it sits at the root of the mirror repo, where Cloudflare's
+// build runs `npx wrangler deploy`.
+//
+// Without it Wrangler guesses, and the two settings below are the ones that
+// decide whether the site's URLs work:
+//
+//  - html_handling "auto-trailing-slash": /work is served from work.html with
+//    no redirect, and /work/ redirects to /work. That is the form every
+//    canonical, sitemap entry and internal link uses (next.config.ts,
+//    trailingSlash: false).
+//  - not_found_handling "404-page": unknown paths get the site's own 404.html
+//    with a real 404 status, instead of an empty response.
+//
+// `name` must match the Worker in the Cloudflare dashboard. Excluded from the
+// served files by .assetsignore.
+{
+  "name": "sevenlayers",
+  "compatibility_date": "2026-09-01",
+  // Serve only on the custom domains. Without these, every `wrangler deploy`
+  // switches the *.workers.dev address back on: a full duplicate copy of the
+  // site at a second hostname, which the live security scan flags.
+  "workers_dev": false,
+  "preview_urls": false,
+  "assets": {
+    "directory": ".",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

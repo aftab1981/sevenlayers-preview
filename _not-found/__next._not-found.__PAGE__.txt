@@ -1,0 +1,50 @@
+1:"$Sreact.fragment"
+2:I[25870,["/_next/static/chunks/0ybdl7cevih-t.js","/_next/static/chunks/27dbu7lozk6m0.js"],"MotionButton"]
+3:I[22016,["/_next/static/chunks/0ybdl7cevih-t.js","/_next/static/chunks/27dbu7lozk6m0.js"],""]
+4:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+8:X
+29:X
+29:C
+0:{"buildId":"UR05KT29PotGG_FYabnVT","data":[{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"section nf","aria-labelledby":"nf-heading","children":["$","div",null,{"className":"container","children":[["$","p",null,{"className":"nf-code","aria-hidden":"true","children":"404"}],["$","h1",null,{"className":"nf-heading","id":"nf-heading","children":"There is no layer 404."}],["$","p",null,{"className":"lead measure nf-lead","children":"This page has moved, been renamed, or never existed. Nothing is broken on your side. Here are the seven that do exist — or skip straight to a quote."}],["$","div",null,{"className":"nf-ctas","children":[["$","$L2",null,{"href":"/quote","className":"btn btn-primary btn-lg","arrow":true,"children":"Get a free quote"}],["$","$L2",null,{"href":"/","className":"btn btn-secondary btn-lg","children":"Back to the homepage"}]]}],["$","ul",null,{"className":"nf-layers","children":[["$","li","digital",{"children":["$","$L3",null,{"href":"/services#digital","className":"nf-layer","style":{"--tint":"#3D5AFE","--tint-dim":"#3D5AFE"},"children":[["$","span",null,{"className":"nf-layer-n","children":"07"}],["$","span",null,{"className":"nf-layer-name","children":"Digital & Brand"}],["$","span",null,{"className":"nf-layer-go","aria-hidden":"true","children":"→"}]]}]}],["$","li","applications",{"children":["$","$L3",null,{"href":"/services#applications","className":"nf-layer","style":{"--tint":"#5964FE","--tint-dim":"#5964FE"},"children":[["$","span",null,{"className":"nf-layer-n","children":"06"}],["$","span",null,{"className":"nf-layer-name","children":"Applications & AI"}],["$","span",null,{"className":"nf-layer-go","aria-hidden":"true","children":"→"}]]}]}],["$","li","automation",{"children":["$","$L3",null,{"href":"/services#automation","className":"nf-layer","style":{"--tint":"#756EFF","--tint-dim":"#756EFF"},"children":[["$","span",null,{"className":"nf-layer-n","children":"05"}],["$","span",null,{"className":"nf-layer-name","children":"Automation"}],["$","span",null,{"className":"nf-layer-go","aria-hidden":"true","children":"→"}]]}]}],["$","li","platform",{"children":["$","$L3",null,{"href":"/services#platform","className":"nf-layer","style":{"--tint":"#9178FF","--tint-dim":"#8A73F4"},"children":[["$","span",null,{"className":"nf-layer-n","children":"04"}],["$","span",null,{"className":"nf-layer-name","children":"Platform"}],["$","span",null,{"className":"nf-layer-go","aria-hidden":"true","children":"→"}]]}]}],["$","li","network",{"children":["$","$L3",null,{"href":"/services#network","className":"nf-layer","style":{"--tint":"#7D92F2","--tint-dim":"#6F82D7"},"children":[["$","span",null,{"className":"nf-layer-n","children":"03"}],["$","span",null,{"className":"nf-layer-name","children":"Network"}],["$","span",null,{"className":"nf-layer-go","aria-hidden":"true","children":"→"}]]}]}],["$","li","foundation",{"children":["$","$L3",null,{"href":"/services#foundation","className":"nf-layer","style":{"--tint":"#54B3E0","--tint-dim":"#448FB5"},"children":[["$","span",null,{"className":"nf-layer-n","children":"02"}],["$","span",null,{"className":"nf-layer-name","children":"Foundation"}],["$","span",null,{"className":"nf-layer-go","aria-hidden":"true","children":"→"}]]}]}],["$","li","operations",{"children":["$","$L3",null,{"href":"/services#operations","className":"nf-layer","style":{"--tint":"#2BD4CE","--tint-dim":"#219596"},"children":[["$","span",null,{"className":"nf-layer-n","children":"01"}],["$","span",null,{"className":"nf-layer-name","children":"Operations"}],["$","span",null,{"className":"nf-layer-go","aria-hidden":"true","children":"→"}]]}]}]]}],["$","p",null,{"className":"nf-foot","children":["Certain the link was right? ",["$","$L3",null,{"href":"/contact","children":"Tell us where you found it"}]," ","and we'll fix it."]}]]}]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#F7F8FB","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0F1422","media":"(prefers-color-scheme: dark)"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page not found — Seven Layers"}],["$","meta","1",{"name":"description","content":"We build beautiful websites and grow your business online. Web development, Shopify stores, SEO, and digital marketing for small businesses and startups."}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24"]}]}]}],"$L25"]}],"isPartial":"$@26","staleTime":"$8","varyParams":null},{"rsc":"$L27","isPartial":"$@28","staleTime":"$8","varyParams":"$29"}],"isUpgradeableISRFallback":false,"a":"$@2a","rootVaryParams":null,"needsRuntimeRequest":"$@2b"}
+2c:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2d:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+2e:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:null
+b:["$","meta","2",{"name":"application-name","content":"Seven Layers"}]
+c:["$","meta","3",{"name":"robots","content":"noindex, follow"}]
+d:["$","link","4",{"rel":"alternate","type":"application/rss+xml","href":"https://www.sevenlayers.online/feed.xml","title":"Seven Layers — articles"}]
+e:["$","meta","5",{"property":"og:title","content":"Page not found — Seven Layers"}]
+f:["$","meta","6",{"property":"og:description","content":"We build beautiful websites and grow your business online. Web development, Shopify stores, SEO, and digital marketing for small businesses and startups."}]
+10:["$","meta","7",{"property":"og:site_name","content":"Seven Layers"}]
+11:["$","meta","8",{"property":"og:locale","content":"en_GB"}]
+12:["$","meta","9",{"property":"og:image","content":"https://www.sevenlayers.online/opengraph-image?9440b5b35671da67"}]
+13:["$","meta","10",{"property":"og:image:type","content":"image/png"}]
+14:["$","meta","11",{"property":"og:image:width","content":"1200"}]
+15:["$","meta","12",{"property":"og:image:height","content":"630"}]
+16:["$","meta","13",{"property":"og:image:alt","content":"Seven Layers — web development and digital marketing for small businesses"}]
+17:["$","meta","14",{"property":"og:type","content":"website"}]
+18:["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}]
+19:["$","meta","16",{"name":"twitter:title","content":"Page not found — Seven Layers"}]
+1a:["$","meta","17",{"name":"twitter:description","content":"We build beautiful websites and grow your business online. Web development, Shopify stores, SEO, and digital marketing for small businesses and startups."}]
+1b:["$","meta","18",{"name":"twitter:image","content":"https://www.sevenlayers.online/opengraph-image?9440b5b35671da67"}]
+1c:["$","meta","19",{"name":"twitter:image:alt","content":"Seven Layers — web development and digital marketing for small businesses"}]
+1d:["$","meta","20",{"name":"twitter:image:type","content":"image/png"}]
+1e:["$","meta","21",{"name":"twitter:image:width","content":"1200"}]
+1f:["$","meta","22",{"name":"twitter:image:height","content":"630"}]
+20:["$","link","23",{"rel":"icon","href":"/favicon.ico?favicon.17d_psp4lc72n.ico","sizes":"48x48","type":"image/x-icon"}]
+21:["$","link","24",{"rel":"icon","href":"/favicon.ico"}]
+22:["$","link","25",{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}]
+23:["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}]
+24:["$","$L2c","27",{}]
+25:["$","meta",null,{"name":"next-size-adjust","content":""}]
+27:["$","$1","c",{"children":[null,["$","$L2d",null,{"parallelRouterKey":"children","template":["$","$L2e",null,{}]}]]}]
+2b:true
+8:300
+8:C
+2a:0
+26:"$undefined"
+28:"$undefined"
+7:"$undefined"

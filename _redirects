@@ -1,0 +1,37 @@
+# Redirects for the static build.
+#
+# `redirects()` in next.config.ts only runs on a server. These mirror it, in
+# the format Cloudflare Pages and Netlify both read from the output root.
+# Keep in sync with `redirectRules()` in next.config.ts.
+#
+# The apex -> www redirect is NOT here. On Cloudflare it belongs in the
+# dashboard as a Redirect Rule, because _redirects is matched per-path after
+# the request has already reached this origin and cannot match on hostname.
+# Setting up both hostnames to serve the same Pages project without a rule
+# would put the whole site on two origins again, which is the duplicate-content
+# problem the server-side rule existed to close. See the deployment notes in
+# docs/ for the exact dashboard steps.
+
+# /tech duplicated /technologies and re-listed vendor names that were
+# deliberately removed as unverifiable. It was in the sitemap and the footer.
+/tech  /technologies  301
+
+# Renamed product: "Server Fleet Dashboard" -> "Unified iDRAC Management".
+# The old path was in the sitemap and linked from /work.
+/products/infrastructure-management  /products/unified-idrac-management  301
+
+# No rules for /api/* or /admin. An earlier version sent them to /404 with a
+# 404 status, which Cloudflare rejects outright — _redirects accepts only 200,
+# 301, 302, 303, 307 and 308, and the whole file is discarded if any line uses
+# anything else. That is what failed the first deploy.
+#
+# They are not needed anyway: those paths do not exist in the output, and
+# Cloudflare serves the exported 404.html for anything unmatched, which is the
+# honest status code and the right page.
+
+# Google Search Console ownership file. Google fetches it at exactly this
+# address and wants the file itself, but Cloudflare's auto-trailing-slash
+# handling answers any *.html request with a 307 to the extensionless URL.
+# A 200 rule serves the file in place. Do not delete the file or this rule:
+# Google re-checks, and removing either unverifies the property.
+/googlee5eb4e82f10924bc.html  /googlee5eb4e82f10924bc  200

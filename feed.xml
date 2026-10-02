@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Seven Layers — articles</title>
+    <link>https://www.sevenlayers.online/blog</link>
+    <atom:link href="https://www.sevenlayers.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Plain-English articles on websites, marketing, security and emerging technology for small businesses.</description>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 28 Sep 2026 09:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Should you let AI crawlers read your website?</title>
+      <link>https://www.sevenlayers.online/blog/should-you-let-ai-crawlers-read-your-site</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/should-you-let-ai-crawlers-read-your-site</guid>
+      <pubDate>Mon, 28 Sep 2026 09:00:00 GMT</pubDate>
+      <description>There are three kinds of AI crawler, and blocking the wrong one quietly removes you from AI answers. What each does, and the setting that may have changed.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>SEO</category>
+      <category>Emerging tech</category>
+      <category>AI &amp; custom software</category>
+      <category>Words &amp; content</category>
+    </item>
+    <item>
+      <title>Post-quantum encryption: is your website ready?</title>
+      <link>https://www.sevenlayers.online/blog/post-quantum-encryption-your-website</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/post-quantum-encryption-your-website</guid>
+      <pubDate>Mon, 28 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Quantum computers cannot break your encryption yet, but the switch to new algorithms is already under way in your browser. What changed and what to do.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Cyber Security</category>
+      <category>Emerging tech</category>
+      <category>Security</category>
+      <category>Hosting</category>
+    </item>
+    <item>
+      <title>Passkeys: the end of passwords, explained plainly</title>
+      <link>https://www.sevenlayers.online/blog/passkeys-end-of-passwords-small-business</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/passkeys-end-of-passwords-small-business</guid>
+      <pubDate>Mon, 28 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Billions of passkeys are now in use and phishing cannot steal them. What a passkey is, which accounts to switch first, and the one thing to plan for.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Cyber Security</category>
+      <category>Emerging tech</category>
+      <category>Security</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>MCP explained: how AI assistants plug into your tools</title>
+      <link>https://www.sevenlayers.online/blog/model-context-protocol-explained</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/model-context-protocol-explained</guid>
+      <pubDate>Mon, 28 Sep 2026 09:00:00 GMT</pubDate>
+      <description>The Model Context Protocol is becoming the standard way AI assistants connect to business software. What it is, why it matters, and how to use it safely.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>AI &amp; Automation</category>
+      <category>Emerging tech</category>
+      <category>AI &amp; custom software</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>AI browsers are here. What they mean for your website</title>
+      <link>https://www.sevenlayers.online/blog/ai-browsers-what-they-mean-for-your-site</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/ai-browsers-what-they-mean-for-your-site</guid>
+      <pubDate>Mon, 28 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Browsers that click, fill forms and compare on a person&apos;s behalf now ship from OpenAI, Google, Perplexity and Microsoft. How to make your site work for them.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Emerging tech</category>
+      <category>AI &amp; custom software</category>
+      <category>Accessibility</category>
+    </item>
+    <item>
+      <title>Deepfake fraud: the cheap defences that actually work</title>
+      <link>https://www.sevenlayers.online/blog/deepfake-fraud-small-business-defences</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/deepfake-fraud-small-business-defences</guid>
+      <pubDate>Mon, 28 Sep 2026 09:00:00 GMT</pubDate>
+      <description>A convincing fake voice now takes seconds of audio. The defences are old-fashioned and nearly free: callbacks, a change-of-bank-details rule, and time.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Cyber Security</category>
+      <category>Emerging tech</category>
+      <category>Security</category>
+      <category>AI &amp; custom software</category>
+    </item>
+    <item>
+      <title>Vibe coding: what it means if you&apos;re not a developer</title>
+      <link>https://www.sevenlayers.online/blog/vibe-coding-what-business-owners-should-know</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/vibe-coding-what-business-owners-should-know</guid>
+      <pubDate>Mon, 28 Sep 2026 09:00:00 GMT</pubDate>
+      <description>You can now describe an app and get working software. Where that is genuinely useful for a small business, where it bites, and when to call a professional.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>AI &amp; Automation</category>
+      <category>Emerging tech</category>
+      <category>AI &amp; custom software</category>
+      <category>Pricing &amp; budgets</category>
+    </item>
+    <item>
+      <title>On-device AI: why useful models are getting smaller</title>
+      <link>https://www.sevenlayers.online/blog/on-device-ai-privacy-small-business</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/on-device-ai-privacy-small-business</guid>
+      <pubDate>Mon, 28 Sep 2026 09:00:00 GMT</pubDate>
+      <description>AI that runs on your own laptop or phone is private, fast and free to use. What changed in the hardware, what it is good for, and where it still falls short.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>AI &amp; Automation</category>
+      <category>Emerging tech</category>
+      <category>AI &amp; custom software</category>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Content Credentials: proving your photos are real</title>
+      <link>https://www.sevenlayers.online/blog/content-credentials-proving-photos-are-real</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/content-credentials-proving-photos-are-real</guid>
+      <pubDate>Mon, 28 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Phones and cameras now sign photos at the moment they are taken. What Content Credentials prove, what they do not, and why online sellers should care.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Branding</category>
+      <category>Emerging tech</category>
+      <category>Photography &amp; imagery</category>
+      <category>AI &amp; custom software</category>
+    </item>
+    <item>
+      <title>Digital product passports: what EU sellers need to know</title>
+      <link>https://www.sevenlayers.online/blog/eu-digital-product-passport-what-sellers-need</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/eu-digital-product-passport-what-sellers-need</guid>
+      <pubDate>Mon, 28 Sep 2026 09:00:00 GMT</pubDate>
+      <description>The EU&apos;s product passport registry went live in July 2026 and batteries need passports from February 2027. What a passport is, who needs one, and when.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Ecommerce</category>
+      <category>Emerging tech</category>
+      <category>Selling abroad</category>
+    </item>
+    <item>
+      <title>Static, serverless and the edge: how hosting quietly changed</title>
+      <link>https://www.sevenlayers.online/blog/static-serverless-edge-hosting</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/static-serverless-edge-hosting</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 GMT</pubDate>
+      <description>The model most small-business sites still use was designed for 2005. What replaced it, why it&apos;s faster and cheaper, and where it genuinely doesn&apos;t fit.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Infrastructure</category>
+      <category>Hosting</category>
+      <category>Speed &amp; performance</category>
+    </item>
+    <item>
+      <title>DNS explained: the part that breaks at the worst moment</title>
+      <link>https://www.sevenlayers.online/blog/dns-explained-plain-english</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/dns-explained-plain-english</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 GMT</pubDate>
+      <description>A, CNAME, MX, TXT, TTL — the handful of records that decide whether people reach your site and your email arrives. Plus why &apos;propagation&apos; is mostly a myth.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Infrastructure</category>
+      <category>DNS &amp; email delivery</category>
+      <category>Domains</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>Your domain is a security asset. Lock it down.</title>
+      <link>https://www.sevenlayers.online/blog/domain-security-lock-it-down</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/domain-security-lock-it-down</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 GMT</pubDate>
+      <description>A hijacked domain redirects your traffic, intercepts your email and impersonates you at your own address. Four controls that prevent nearly all of it.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Cyber Security</category>
+      <category>Domains</category>
+      <category>Security</category>
+      <category>DNS &amp; email delivery</category>
+    </item>
+    <item>
+      <title>SPF, DKIM and DMARC: why your email stopped arriving</title>
+      <link>https://www.sevenlayers.online/blog/spf-dkim-dmarc-email-delivery</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/spf-dkim-dmarc-email-delivery</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Since 2024 the big providers reject unauthenticated mail rather than filtering it. Three DNS records decide whether you reach the inbox or the bin.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Email Marketing</category>
+      <category>Email</category>
+      <category>DNS &amp; email delivery</category>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>What &quot;modern hosting&quot; actually means, and how to check yours</title>
+      <link>https://www.sevenlayers.online/blog/modern-hosting-http3-tls</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/modern-hosting-http3-tls</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 GMT</pubDate>
+      <description>HTTP/3, TLS 1.3, IPv6, HTTP/2 — four things you can check in two minutes that tell you whether your host is maintained or coasting on 2015.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Infrastructure</category>
+      <category>Hosting</category>
+      <category>Speed &amp; performance</category>
+    </item>
+    <item>
+      <title>Managed WordPress hosting: worth the premium?</title>
+      <link>https://www.sevenlayers.online/blog/managed-wordpress-hosting-worth-it</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/managed-wordpress-hosting-worth-it</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Four to ten times the price of shared hosting for the same site. What you&apos;re actually buying, and the honest test for whether it&apos;s worth it for you.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>WordPress</category>
+      <category>Hosting</category>
+      <category>Pricing &amp; budgets</category>
+    </item>
+    <item>
+      <title>Moving a website without downtime (or losing your email)</title>
+      <link>https://www.sevenlayers.online/blog/website-migration-without-downtime</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/website-migration-without-downtime</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Migrations go wrong in predictable ways. The TTL trick, the order of operations, and the one mistake that takes email down for a day.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Hosting</category>
+      <category>DNS &amp; email delivery</category>
+      <category>Domains</category>
+    </item>
+    <item>
+      <title>Green hosting: what&apos;s real and what&apos;s a certificate</title>
+      <link>https://www.sevenlayers.online/blog/green-hosting-what-is-real</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/green-hosting-what-is-real</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Data centres use about as much electricity as aviation. Green hosting is a real choice — but there is a difference between buying power and buying paperwork.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Infrastructure</category>
+      <category>Hosting</category>
+      <category>Measurement</category>
+    </item>
+    <item>
+      <title>Managing multiple iDRACs: the one-tab-per-server problem</title>
+      <link>https://www.sevenlayers.online/blog/managing-multiple-idrac-instances</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/managing-multiple-idrac-instances</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 GMT</pubDate>
+      <description>iDRAC is excellent at one server and says nothing about fifty. How teams actually answer estate-wide questions, and the point at which tabs stop scaling.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Infrastructure</category>
+      <category>Servers &amp; estates</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>Dell OpenManage Enterprise: where it fits, and where it doesn&apos;t</title>
+      <link>https://www.sevenlayers.online/blog/openmanage-enterprise-where-it-fits</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/openmanage-enterprise-where-it-fits</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 GMT</pubDate>
+      <description>OME is capable, free with the hardware and the right first answer for most Dell estates. An honest look at what it does well and when teams outgrow it.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Infrastructure</category>
+      <category>Servers &amp; estates</category>
+      <category>Measurement</category>
+    </item>
+    <item>
+      <title>Why we charge £999 when agencies quote £5,000</title>
+      <link>https://www.sevenlayers.online/blog/why-our-websites-cost-less-than-an-agency</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/why-our-websites-cost-less-than-an-agency</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 GMT</pubDate>
+      <description>UK agencies charge £1,500 to £10,000 for a small business site. We start at £999. Here is exactly where the difference comes from — and when to pay more.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Pricing &amp; budgets</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>What a domain name actually is (and who really owns it)</title>
+      <link>https://www.sevenlayers.online/blog/what-is-a-domain-name</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/what-is-a-domain-name</guid>
+      <pubDate>Sat, 29 Aug 2026 09:00:00 GMT</pubDate>
+      <description>You don&apos;t buy a domain, you rent it. Here&apos;s what registries, registrars and nameservers each do, and why knowing the difference saves you at the worst moment.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Domains</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>Choosing a domain in 2026: .com, .co.uk, or something newer?</title>
+      <link>https://www.sevenlayers.online/blog/choosing-a-domain-2026</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/choosing-a-domain-2026</guid>
+      <pubDate>Sat, 29 Aug 2026 09:00:00 GMT</pubDate>
+      <description>The extension matters less than it used to and the renewal price matters more. How to pick a name, and the pricing trick that catches almost everyone.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Domains</category>
+      <category>Pricing &amp; budgets</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>The .io question: when a domain depends on a country existing</title>
+      <link>https://www.sevenlayers.online/blog/io-domain-country-code-risk</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/io-domain-country-code-risk</guid>
+      <pubDate>Sat, 29 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Thousands of tech businesses run on .io, a domain tied to a territory being handed to Mauritius. A real case study in why the extension is a business decision.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Domains</category>
+      <category>Selling abroad</category>
+    </item>
+    <item>
+      <title>What web hosting actually is, and what you&apos;re paying for</title>
+      <link>https://www.sevenlayers.online/blog/what-is-web-hosting</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/what-is-web-hosting</guid>
+      <pubDate>Sat, 29 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Hosting is renting a computer that is always on. Here&apos;s what separates £3 a month from £300, and which of those differences will ever matter to you.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Hosting</category>
+      <category>Pricing &amp; budgets</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>Types of hosting compared: shared, VPS, cloud, managed, static</title>
+      <link>https://www.sevenlayers.online/blog/types-of-hosting-compared</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/types-of-hosting-compared</guid>
+      <pubDate>Sat, 29 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Five kinds of hosting, what each is genuinely for, and the honest answer to which one your site needs — including when the cheapest option is the right one.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Hosting</category>
+      <category>Pricing &amp; budgets</category>
+      <category>Speed &amp; performance</category>
+    </item>
+    <item>
+      <title>Buy Now Pay Later at the UK checkout: worth it or not?</title>
+      <link>https://www.sevenlayers.online/blog/buy-now-pay-later-uk-checkout</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/buy-now-pay-later-uk-checkout</guid>
+      <pubDate>Fri, 28 Aug 2026 09:00:00 GMT</pubDate>
+      <description>42% of UK adults have used BNPL and half of retailers report a revenue lift. The honest trade-off: fees, the 2026 regulation, and who it suits.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Ecommerce</category>
+      <category>Checkout</category>
+      <category>Pricing &amp; budgets</category>
+    </item>
+    <item>
+      <title>Windows 10 is out of support. What that means for your business.</title>
+      <link>https://www.sevenlayers.online/blog/windows-10-end-of-support-business-machines</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/windows-10-end-of-support-business-machines</guid>
+      <pubDate>Fri, 28 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Standard support ended in October 2025. Without Extended Security Updates, new flaws stay unfixed. How to work out what you have and what to do.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Infrastructure</category>
+      <category>Security</category>
+      <category>Servers &amp; estates</category>
+    </item>
+    <item>
+      <title>Cyber Essentials changed in April 2026. MFA is now pass or fail.</title>
+      <link>https://www.sevenlayers.online/blog/cyber-essentials-2026-mfa-changes</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/cyber-essentials-2026-mfa-changes</guid>
+      <pubDate>Thu, 27 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Version 3.3 landed on 27 April 2026. Missing MFA on a cloud service is now an automatic fail — no warnings, no exception for paid-only tiers.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Cyber Security</category>
+      <category>Security</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>Your Google Business Profile is not set-and-forget any more</title>
+      <link>https://www.sevenlayers.online/blog/google-business-profile-not-set-and-forget</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/google-business-profile-not-set-and-forget</guid>
+      <pubDate>Thu, 27 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Local search leaned harder on relevance and engagement through 2026. Completeness, activity and answered questions now separate first place from fifth.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>SEO</category>
+      <category>Local business</category>
+      <category>Measurement</category>
+    </item>
+    <item>
+      <title>The European Accessibility Act and UK businesses</title>
+      <link>https://www.sevenlayers.online/blog/european-accessibility-act-uk-businesses</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/european-accessibility-act-uk-businesses</guid>
+      <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Since June 2025, e-commerce sold into the EU must be accessible, and UK sellers can be in scope. What it requires, the narrow 2030 rule, and what to do first.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Accessibility</category>
+      <category>Selling abroad</category>
+      <category>Checkout</category>
+    </item>
+    <item>
+      <title>AI shopping agents are buying things. Can they buy from you?</title>
+      <link>https://www.sevenlayers.online/blog/ai-shopping-agents-can-they-buy-from-you</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/ai-shopping-agents-can-they-buy-from-you</guid>
+      <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Google, OpenAI and Shopify shipped protocols letting AI agents buy. If your product data is not machine-readable, the agent picks a competitor.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Ecommerce</category>
+      <category>Checkout</category>
+      <category>Shopify</category>
+      <category>AI &amp; custom software</category>
+    </item>
+    <item>
+      <title>Your rankings held and your traffic fell. That&apos;s AI Overviews.</title>
+      <link>https://www.sevenlayers.online/blog/ai-overviews-traffic-drop-rankings-held</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/ai-overviews-traffic-drop-rankings-held</guid>
+      <pubDate>Tue, 25 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Same positions, fewer clicks? Nothing broke — Google started answering the question itself. What changed, how to confirm it, and what to do next.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>SEO</category>
+      <category>Measurement</category>
+      <category>Words &amp; content</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>How to get cited by AI search when you&apos;re a small business</title>
+      <link>https://www.sevenlayers.online/blog/get-cited-by-ai-search-small-business</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/get-cited-by-ai-search-small-business</guid>
+      <pubDate>Tue, 25 Aug 2026 09:00:00 GMT</pubDate>
+      <description>AI answers cite sources, and getting into that list is winnable for a small site. It takes specificity and currency, not a bigger budget.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>SEO</category>
+      <category>Words &amp; content</category>
+      <category>Measurement</category>
+    </item>
+    <item>
+      <title>Social media for businesses that hate posting</title>
+      <link>https://www.sevenlayers.online/blog/social-media-for-people-who-hate-posting</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/social-media-for-people-who-hate-posting</guid>
+      <pubDate>Mon, 24 Aug 2026 09:00:00 GMT</pubDate>
+      <description>You do not need to post daily, and you probably should not. A realistic approach for businesses where nobody wants to be a content creator.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Digital Marketing</category>
+      <category>Social media</category>
+      <category>Words &amp; content</category>
+    </item>
+    <item>
+      <title>Technical SEO: the fixes that actually move rankings</title>
+      <link>https://www.sevenlayers.online/blog/technical-seo-that-actually-moves-rankings</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/technical-seo-that-actually-moves-rankings</guid>
+      <pubDate>Sun, 23 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Most technical SEO advice is a checklist of things that change nothing. Here are the problems that genuinely hold sites back, in the order worth fixing them.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>SEO</category>
+      <category>Speed &amp; performance</category>
+    </item>
+    <item>
+      <title>How to tell whether your marketing is actually working</title>
+      <link>https://www.sevenlayers.online/blog/is-my-marketing-actually-working</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/is-my-marketing-actually-working</guid>
+      <pubDate>Sat, 22 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Traffic is up, enquiries are flat, and the report is forty pages. A simple way to judge whether the money is earning — without becoming an analyst.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Analytics</category>
+      <category>Measurement</category>
+    </item>
+    <item>
+      <title>The five emails every small business should have running</title>
+      <link>https://www.sevenlayers.online/blog/five-emails-every-small-business-should-send</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/five-emails-every-small-business-should-send</guid>
+      <pubDate>Fri, 21 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Not a newsletter nobody reads. Five automated messages that do their work quietly, and the order to build them in.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Email Marketing</category>
+      <category>Email</category>
+    </item>
+    <item>
+      <title>Your logo is not your brand</title>
+      <link>https://www.sevenlayers.online/blog/your-logo-is-not-your-brand</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/your-logo-is-not-your-brand</guid>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 GMT</pubDate>
+      <description>A logo is one asset. A brand is why someone picks you over an identical competitor. What makes a small business recognisable, and what a rebrand needs.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Branding</category>
+      <category>Words &amp; content</category>
+    </item>
+    <item>
+      <title>Why your Google Ads budget disappears</title>
+      <link>https://www.sevenlayers.online/blog/why-your-google-ads-budget-disappears</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/why-your-google-ads-budget-disappears</guid>
+      <pubDate>Wed, 19 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Most wasted ad spend is not bad luck. It is four or five default settings that suit Google more than they suit you. Here is what to check first.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Google Ads</category>
+      <category>Paid ads</category>
+      <category>Measurement</category>
+    </item>
+    <item>
+      <title>The startup website: what to build before you have a product</title>
+      <link>https://www.sevenlayers.online/blog/startup-website-before-you-have-a-product</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/startup-website-before-you-have-a-product</guid>
+      <pubDate>Tue, 18 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Most early-stage sites are either a placeholder nobody remembers or an over-engineered platform nobody needed. What to build at each stage, and what to skip.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Industry guides</category>
+      <category>Words &amp; content</category>
+    </item>
+    <item>
+      <title>Restaurant websites: the five things people actually came to find</title>
+      <link>https://www.sevenlayers.online/blog/restaurant-website-what-people-came-for</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/restaurant-website-what-people-came-for</guid>
+      <pubDate>Mon, 17 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Hospitality sites are often the prettiest and the least useful. Almost every visitor wants one of five things — and most sites bury all five.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Conversion</category>
+      <category>Industry guides</category>
+      <category>Local business</category>
+    </item>
+    <item>
+      <title>Product photography on a small budget, and why it sells</title>
+      <link>https://www.sevenlayers.online/blog/product-photography-on-a-small-budget</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/product-photography-on-a-small-budget</guid>
+      <pubDate>Sun, 16 Aug 2026 09:00:00 GMT</pubDate>
+      <description>For most online shops the photograph is the product page. What you can achieve with a phone, a window and an afternoon — and the mistakes that cost you orders.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Ecommerce</category>
+      <category>Photography &amp; imagery</category>
+      <category>Words &amp; content</category>
+      <category>Jewellery</category>
+    </item>
+    <item>
+      <title>The construction website that wins bigger jobs</title>
+      <link>https://www.sevenlayers.online/blog/construction-website-that-wins-bigger-jobs</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/construction-website-that-wins-bigger-jobs</guid>
+      <pubDate>Sat, 15 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Trades lose work to competitors who are no better, just easier to believe. What a website has to prove, and the one section that does most of it.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Industry guides</category>
+      <category>Local business</category>
+      <category>Photography &amp; imagery</category>
+    </item>
+    <item>
+      <title>When custom software is worth it (and when a spreadsheet is fine)</title>
+      <link>https://www.sevenlayers.online/blog/when-custom-software-is-worth-it</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/when-custom-software-is-worth-it</guid>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Most businesses build too early or too late. A practical test for deciding which side of the line a problem sits on — including when the answer is don&apos;t build.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>AI &amp; Automation</category>
+      <category>AI &amp; custom software</category>
+      <category>Pricing &amp; budgets</category>
+    </item>
+    <item>
+      <title>What patients check before they book a clinic</title>
+      <link>https://www.sevenlayers.online/blog/clinic-website-what-patients-check</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/clinic-website-what-patients-check</guid>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Healthcare buying decisions are made on trust, and most of that trust is won or lost on three pages. What a clinic website has to answer before the phone rings.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Conversion</category>
+      <category>Industry guides</category>
+      <category>Local business</category>
+      <category>Accessibility</category>
+    </item>
+    <item>
+      <title>The three attacks that actually hit small businesses</title>
+      <link>https://www.sevenlayers.online/blog/three-attacks-that-hit-small-businesses</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/three-attacks-that-hit-small-businesses</guid>
+      <pubDate>Wed, 12 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Not zero-days and not nation states. The things that genuinely happen to small firms are ordinary, preventable, and rarely discussed at the right level.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Cyber Security</category>
+      <category>Security</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>Your backups are not backups until you have restored one</title>
+      <link>https://www.sevenlayers.online/blog/backups-are-not-backups-until-you-restore</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/backups-are-not-backups-until-you-restore</guid>
+      <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Most businesses that lose data had backups. What they did not have was a restore anyone had ever watched work. How to find out before it matters.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Cyber Security</category>
+      <category>Security</category>
+      <category>Servers &amp; estates</category>
+    </item>
+    <item>
+      <title>Firmware and BIOS drift: the outage you can see coming</title>
+      <link>https://www.sevenlayers.online/blog/firmware-and-bios-drift</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/firmware-and-bios-drift</guid>
+      <pubDate>Sat, 08 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Identical servers slowly stop being identical. Drift is boring, invisible, and behind a surprising share of the failures that look random.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Infrastructure</category>
+      <category>Servers &amp; estates</category>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>How to keep a server hardware inventory that stays true</title>
+      <link>https://www.sevenlayers.online/blog/server-inventory-without-a-spreadsheet</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/server-inventory-without-a-spreadsheet</guid>
+      <pubDate>Thu, 06 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Every infrastructure team has a spreadsheet that was accurate the day it was made. Here is why they rot, and how to build an inventory that describes itself.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Infrastructure</category>
+      <category>Servers &amp; estates</category>
+    </item>
+    <item>
+      <title>What is iDRAC? Dell&apos;s out-of-band controller in plain English</title>
+      <link>https://www.sevenlayers.online/blog/what-is-idrac-plain-english</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/what-is-idrac-plain-english</guid>
+      <pubDate>Tue, 04 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Every Dell PowerEdge server has a small computer inside that runs whether the server is on or off. What iDRAC does, why it matters, and where it stops.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Infrastructure</category>
+      <category>Servers &amp; estates</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>What a WordPress store actually costs to run</title>
+      <link>https://www.sevenlayers.online/blog/what-a-wordpress-store-costs-to-run</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/what-a-wordpress-store-costs-to-run</guid>
+      <pubDate>Sun, 02 Aug 2026 09:00:00 GMT</pubDate>
+      <description>The build price is the number everyone asks about. The running cost is the one that surprises them. Hosting, plugins, maintenance and hidden bills, itemised.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Ecommerce</category>
+      <category>WordPress</category>
+      <category>Pricing &amp; budgets</category>
+      <category>Shopify</category>
+    </item>
+    <item>
+      <title>Cash on Delivery: designing a checkout that fits it</title>
+      <link>https://www.sevenlayers.online/blog/cash-on-delivery-checkout-design</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/cash-on-delivery-checkout-design</guid>
+      <pubDate>Fri, 31 Jul 2026 09:00:00 GMT</pubDate>
+      <description>COD is not a payment method you bolt on. It changes the checkout, your returns policy and your cash flow. What to design for if customers pay at the door.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Ecommerce</category>
+      <category>Checkout</category>
+      <category>Selling abroad</category>
+      <category>Jewellery</category>
+    </item>
+    <item>
+      <title>Selling jewellery online: what makes it different</title>
+      <link>https://www.sevenlayers.online/blog/selling-jewellery-online-what-makes-it-different</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/selling-jewellery-online-what-makes-it-different</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
+      <description>Jewellery breaks most ecommerce templates. Here is what actually changes — photography, occasions, trust, and why bridal is one purchase rather than four.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Ecommerce</category>
+      <category>Jewellery</category>
+      <category>Industry guides</category>
+      <category>Checkout</category>
+    </item>
+    <item>
+      <title>Where AI actually helps a small business — and where it doesn&apos;t</title>
+      <link>https://www.sevenlayers.online/blog/where-ai-helps-small-business-website</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/where-ai-helps-small-business-website</guid>
+      <pubDate>Sun, 26 Jul 2026 09:00:00 GMT</pubDate>
+      <description>Past the hype, a few uses genuinely save hours a week. Several popular ones quietly damage your search rankings and your credibility.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>AI &amp; Automation</category>
+      <category>AI &amp; custom software</category>
+    </item>
+    <item>
+      <title>The five numbers every small business should watch</title>
+      <link>https://www.sevenlayers.online/blog/five-numbers-every-business-should-watch</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/five-numbers-every-business-should-watch</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 GMT</pubDate>
+      <description>Analytics dashboards show hundreds of metrics and most of them are noise. These five tell you whether your website is doing its job.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Analytics</category>
+      <category>Measurement</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>Choosing the right social platform for your business</title>
+      <link>https://www.sevenlayers.online/blog/choosing-the-right-social-platform</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/choosing-the-right-social-platform</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 GMT</pubDate>
+      <description>You cannot be good on all of them, and trying is why most small business social media fails. How to pick one or two and actually commit.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Digital Marketing</category>
+      <category>Social media</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>How to set a marketing budget when you&apos;re starting from zero</title>
+      <link>https://www.sevenlayers.online/blog/marketing-budget-from-zero</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/marketing-budget-from-zero</guid>
+      <pubDate>Mon, 20 Jul 2026 09:00:00 GMT</pubDate>
+      <description>No historical data, no benchmarks, no idea what a lead should cost. Here&apos;s a way to size a first budget that won&apos;t bankrupt you or waste the money.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Digital Marketing</category>
+      <category>Pricing &amp; budgets</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>The anatomy of a landing page that actually converts</title>
+      <link>https://www.sevenlayers.online/blog/landing-page-anatomy-that-converts</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/landing-page-anatomy-that-converts</guid>
+      <pubDate>Sat, 18 Jul 2026 09:00:00 GMT</pubDate>
+      <description>Send paid traffic to your homepage and you waste it. Here&apos;s the structure of a page built for one job, in the order visitors need it.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Conversion</category>
+      <category>Words &amp; content</category>
+      <category>Paid ads</category>
+    </item>
+    <item>
+      <title>Abandoned carts: the fixes that recover the most revenue</title>
+      <link>https://www.sevenlayers.online/blog/abandoned-cart-recovery-fixes</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/abandoned-cart-recovery-fixes</guid>
+      <pubDate>Thu, 16 Jul 2026 09:00:00 GMT</pubDate>
+      <description>Most people who add to your basket never buy. A handful of unglamorous changes to your checkout will win back more of them than any discount code.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Ecommerce</category>
+      <category>Checkout</category>
+      <category>Email</category>
+    </item>
+    <item>
+      <title>International SEO: how to rank when your customers are abroad</title>
+      <link>https://www.sevenlayers.online/blog/international-seo-guide</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/international-seo-guide</guid>
+      <pubDate>Tue, 14 Jul 2026 09:00:00 GMT</pubDate>
+      <description>Selling to another country is not the same as selling at home. What changes in your SEO — and what stubbornly stays the same.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>SEO</category>
+      <category>Selling abroad</category>
+      <category>Words &amp; content</category>
+    </item>
+    <item>
+      <title>Accessible websites: the business case, not just the legal one</title>
+      <link>https://www.sevenlayers.online/blog/accessible-websites-business-case</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/accessible-websites-business-case</guid>
+      <pubDate>Sun, 12 Jul 2026 09:00:00 GMT</pubDate>
+      <description>Accessibility gets framed as compliance. It is really about not turning away customers who want to buy from you — and the fixes are smaller than you think.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Accessibility</category>
+    </item>
+    <item>
+      <title>Website security basics most small businesses get wrong</title>
+      <link>https://www.sevenlayers.online/blog/website-security-basics-small-business</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/website-security-basics-small-business</guid>
+      <pubDate>Fri, 10 Jul 2026 09:00:00 GMT</pubDate>
+      <description>You don&apos;t need an enterprise security budget. You do need to get five unglamorous things right — and most sites we inherit have missed at least three.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Security</category>
+      <category>WordPress</category>
+    </item>
+    <item>
+      <title>Core Web Vitals in plain English: what actually makes a site fast</title>
+      <link>https://www.sevenlayers.online/blog/core-web-vitals-plain-english</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/core-web-vitals-plain-english</guid>
+      <pubDate>Wed, 08 Jul 2026 09:00:00 GMT</pubDate>
+      <description>Google grades your site on three speed measurements. Here&apos;s what each one means without the jargon, and the handful of things that genuinely move them.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Speed &amp; performance</category>
+    </item>
+    <item>
+      <title>How to prepare for a website project and keep it on budget</title>
+      <link>https://www.sevenlayers.online/blog/how-to-prepare-for-a-website-project</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/how-to-prepare-for-a-website-project</guid>
+      <pubDate>Sun, 05 Jul 2026 09:00:00 GMT</pubDate>
+      <description>The projects that launch quickly all have one thing in common: a prepared client. Here&apos;s exactly what to have ready before your website build starts.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Getting started</category>
+      <category>Words &amp; content</category>
+    </item>
+    <item>
+      <title>Email marketing: the most underrated channel for small businesses</title>
+      <link>https://www.sevenlayers.online/blog/email-marketing-underrated-channel</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/email-marketing-underrated-channel</guid>
+      <pubDate>Sat, 04 Jul 2026 09:00:00 GMT</pubDate>
+      <description>No algorithm, no ad auction — just a direct line to people who already know you. Why email quietly outperforms, and how to start without being spammy.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Email Marketing</category>
+      <category>Email</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>How to write website content that actually sells</title>
+      <link>https://www.sevenlayers.online/blog/write-website-content-that-sells</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/write-website-content-that-sells</guid>
+      <pubDate>Fri, 03 Jul 2026 09:00:00 GMT</pubDate>
+      <description>Most business websites describe; the good ones persuade. A practical guide to writing pages that turn readers into enquiries — no copywriting degree required.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Conversion</category>
+      <category>Words &amp; content</category>
+    </item>
+    <item>
+      <title>Does my small business really need branding?</title>
+      <link>https://www.sevenlayers.online/blog/does-my-small-business-need-branding</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/does-my-small-business-need-branding</guid>
+      <pubDate>Thu, 02 Jul 2026 09:00:00 GMT</pubDate>
+      <description>Branding sounds like something for big companies with big budgets. What it actually means for a small business, and the parts worth paying for.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Branding</category>
+      <category>Getting started</category>
+      <category>Words &amp; content</category>
+    </item>
+    <item>
+      <title>5 website mistakes that quietly cost small businesses customers</title>
+      <link>https://www.sevenlayers.online/blog/website-mistakes-costing-you-customers</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/website-mistakes-costing-you-customers</guid>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 GMT</pubDate>
+      <description>Most business websites don&apos;t fail loudly — they leak enquiries quietly. Here are the five most common mistakes we see, and the simple fixes.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Conversion</category>
+      <category>Redesigns &amp; rescues</category>
+      <category>Words &amp; content</category>
+    </item>
+    <item>
+      <title>Google Ads for small businesses: a plain-English starter guide</title>
+      <link>https://www.sevenlayers.online/blog/google-ads-for-small-businesses-guide</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/google-ads-for-small-businesses-guide</guid>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 GMT</pubDate>
+      <description>How Google Ads actually works, what a sensible starting budget looks like, and the mistakes that burn money — explained without the jargon.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Google Ads</category>
+      <category>Paid ads</category>
+      <category>Getting started</category>
+      <category>Pricing &amp; budgets</category>
+    </item>
+    <item>
+      <title>Shopify vs WordPress: which is right for your online store?</title>
+      <link>https://www.sevenlayers.online/blog/shopify-vs-wordpress-for-online-stores</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/shopify-vs-wordpress-for-online-stores</guid>
+      <pubDate>Fri, 26 Jun 2026 09:00:00 GMT</pubDate>
+      <description>The two most common ways to sell online, compared honestly — costs, effort, flexibility, and which one we&apos;d recommend for your situation.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Ecommerce</category>
+      <category>Shopify</category>
+      <category>WordPress</category>
+      <category>Pricing &amp; budgets</category>
+    </item>
+    <item>
+      <title>Local SEO: how to get found by customers in your area</title>
+      <link>https://www.sevenlayers.online/blog/local-seo-guide-uk-small-business</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/local-seo-guide-uk-small-business</guid>
+      <pubDate>Mon, 22 Jun 2026 09:00:00 GMT</pubDate>
+      <description>For most UK small businesses, local search is the highest-value marketing there is. Here&apos;s a practical guide to showing up when nearby customers search.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>SEO</category>
+      <category>Local business</category>
+      <category>Getting started</category>
+    </item>
+    <item>
+      <title>7 signs your business website needs a redesign</title>
+      <link>https://www.sevenlayers.online/blog/signs-your-website-needs-a-redesign</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/signs-your-website-needs-a-redesign</guid>
+      <pubDate>Wed, 17 Jun 2026 09:00:00 GMT</pubDate>
+      <description>Not sure if your website is helping or hurting? Here are seven clear signs it&apos;s time for a refresh — and what a modern site should do instead.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Redesigns &amp; rescues</category>
+      <category>Speed &amp; performance</category>
+    </item>
+    <item>
+      <title>How much does a website cost in the UK? (2026 guide)</title>
+      <link>https://www.sevenlayers.online/blog/how-much-does-a-website-cost-uk</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/how-much-does-a-website-cost-uk</guid>
+      <pubDate>Wed, 10 Jun 2026 09:00:00 GMT</pubDate>
+      <description>A plain-English breakdown of what a website really costs in 2026 — from simple brochure sites to Shopify stores — and what actually drives the price.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Web Development</category>
+      <category>Pricing &amp; budgets</category>
+      <category>Getting started</category>
+      <category>Shopify</category>
+    </item>
+    <item>
+      <title>SEO, Google Ads or social: which is right for you?</title>
+      <link>https://www.sevenlayers.online/blog/seo-ads-or-social-which-is-right</link>
+      <guid isPermaLink="true">https://www.sevenlayers.online/blog/seo-ads-or-social-which-is-right</guid>
+      <pubDate>Wed, 03 Jun 2026 09:00:00 GMT</pubDate>
+      <description>Not sure where to spend your marketing budget? Here&apos;s how to choose between SEO, paid ads, and social media — without the jargon.</description>
+      <dc:creator>Aftab Ahmad</dc:creator>
+      <category>Digital Marketing</category>
+      <category>Getting started</category>
+      <category>Paid ads</category>
+      <category>Social media</category>
+    </item>
+  </channel>
+</rss>

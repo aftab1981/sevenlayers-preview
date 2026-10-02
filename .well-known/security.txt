@@ -1,0 +1,7 @@
+# If you have found a security problem with this website, thank you.
+# Please tell us privately before publishing it, and give us a reasonable
+# time to fix it. We will reply and credit you if you would like.
+Contact: mailto:hello@sevenlayers.online
+Expires: 2027-09-29T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://www.sevenlayers.online/.well-known/security.txt

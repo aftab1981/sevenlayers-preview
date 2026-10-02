@@ -1,0 +1,125 @@
+# Seven Layers
+
+> We build beautiful websites and grow your business online. Web development, Shopify stores, SEO, and digital marketing for small businesses and startups.
+
+Remote-first studio. Prices are published in GBP, starting from £999 for a brochure website. Every site is designed to WCAG 2.2 AA. Written in British English.
+
+## Start here
+- [Services](https://www.sevenlayers.online/services): everything we do, with prices
+- [Web development](https://www.sevenlayers.online/services/web-development): brochure sites, CMS sites and online stores
+- [Digital marketing](https://www.sevenlayers.online/services/digital-marketing): SEO, paid ads, social and email
+- [Instant estimate](https://www.sevenlayers.online/estimate): an itemised price in about two minutes
+- [Why Seven Layers](https://www.sevenlayers.online/why-seven-layers): how we work and what we will not claim
+- [Work](https://www.sevenlayers.online/work): case studies and products
+- [Contact](https://www.sevenlayers.online/contact): hello@sevenlayers.online
+
+## Services
+- [SEO Services](https://www.sevenlayers.online/services/seo): Get found on Google by the customers already looking for you.
+- [Google Ads](https://www.sevenlayers.online/services/google-ads): Customers at the top of Google today, not in six months.
+- [Social Media Marketing](https://www.sevenlayers.online/services/social-media-marketing): Stay top of mind and turn followers into customers.
+- [Branding & Identity](https://www.sevenlayers.online/services/branding): A brand that looks the part and wins trust instantly.
+
+## Industries
+- [Healthcare & Clinics](https://www.sevenlayers.online/industries/healthcare)
+- [Construction & Trades](https://www.sevenlayers.online/industries/construction)
+- [Real Estate & Property](https://www.sevenlayers.online/industries/real-estate)
+- [Legal & Professional](https://www.sevenlayers.online/industries/legal)
+- [Education & Training](https://www.sevenlayers.online/industries/education)
+- [Hospitality & Restaurants](https://www.sevenlayers.online/industries/hospitality)
+- [Retail & Ecommerce](https://www.sevenlayers.online/industries/retail)
+- [Jewellery & Accessories](https://www.sevenlayers.online/industries/jewellery)
+- [Professional Services](https://www.sevenlayers.online/industries/professional-services)
+- [Financial Services](https://www.sevenlayers.online/industries/financial-services)
+- [Manufacturing](https://www.sevenlayers.online/industries/manufacturing)
+- [Logistics & Transport](https://www.sevenlayers.online/industries/logistics)
+- [Telecommunications](https://www.sevenlayers.online/industries/telecommunications)
+- [Government & Public Sector](https://www.sevenlayers.online/industries/government)
+- [Technology Companies](https://www.sevenlayers.online/industries/technology-companies)
+- [Startups & Scale-ups](https://www.sevenlayers.online/industries/startups)
+
+## Products
+- [Unified iDRAC Management](https://www.sevenlayers.online/products/unified-idrac-management): One console for an entire iDRAC estate, instead of one browser tab per server.
+- [Teams Link Monitor](https://www.sevenlayers.online/products/teams-link-monitor): Links shared in the Teams chats and channels you choose, checked against real threat feeds and explained plainly.
+
+## Articles
+- [Should you let AI crawlers read your website?](https://www.sevenlayers.online/blog/should-you-let-ai-crawlers-read-your-site): There are three kinds of AI crawler, and blocking the wrong one quietly removes you from AI answers. What each does, and the setting that may have changed.
+- [Post-quantum encryption: is your website ready?](https://www.sevenlayers.online/blog/post-quantum-encryption-your-website): Quantum computers cannot break your encryption yet, but the switch to new algorithms is already under way in your browser. What changed and what to do.
+- [Passkeys: the end of passwords, explained plainly](https://www.sevenlayers.online/blog/passkeys-end-of-passwords-small-business): Billions of passkeys are now in use and phishing cannot steal them. What a passkey is, which accounts to switch first, and the one thing to plan for.
+- [MCP explained: how AI assistants plug into your tools](https://www.sevenlayers.online/blog/model-context-protocol-explained): The Model Context Protocol is becoming the standard way AI assistants connect to business software. What it is, why it matters, and how to use it safely.
+- [AI browsers are here. What they mean for your website](https://www.sevenlayers.online/blog/ai-browsers-what-they-mean-for-your-site): Browsers that click, fill forms and compare on a person's behalf now ship from OpenAI, Google, Perplexity and Microsoft. How to make your site work for them.
+- [Deepfake fraud: the cheap defences that actually work](https://www.sevenlayers.online/blog/deepfake-fraud-small-business-defences): A convincing fake voice now takes seconds of audio. The defences are old-fashioned and nearly free: callbacks, a change-of-bank-details rule, and time.
+- [Vibe coding: what it means if you're not a developer](https://www.sevenlayers.online/blog/vibe-coding-what-business-owners-should-know): You can now describe an app and get working software. Where that is genuinely useful for a small business, where it bites, and when to call a professional.
+- [On-device AI: why useful models are getting smaller](https://www.sevenlayers.online/blog/on-device-ai-privacy-small-business): AI that runs on your own laptop or phone is private, fast and free to use. What changed in the hardware, what it is good for, and where it still falls short.
+- [Content Credentials: proving your photos are real](https://www.sevenlayers.online/blog/content-credentials-proving-photos-are-real): Phones and cameras now sign photos at the moment they are taken. What Content Credentials prove, what they do not, and why online sellers should care.
+- [Digital product passports: what EU sellers need to know](https://www.sevenlayers.online/blog/eu-digital-product-passport-what-sellers-need): The EU's product passport registry went live in July 2026 and batteries need passports from February 2027. What a passport is, who needs one, and when.
+- [Static, serverless and the edge: how hosting quietly changed](https://www.sevenlayers.online/blog/static-serverless-edge-hosting): The model most small-business sites still use was designed for 2005. What replaced it, why it's faster and cheaper, and where it genuinely doesn't fit.
+- [DNS explained: the part that breaks at the worst moment](https://www.sevenlayers.online/blog/dns-explained-plain-english): A, CNAME, MX, TXT, TTL — the handful of records that decide whether people reach your site and your email arrives. Plus why 'propagation' is mostly a myth.
+- [Your domain is a security asset. Lock it down.](https://www.sevenlayers.online/blog/domain-security-lock-it-down): A hijacked domain redirects your traffic, intercepts your email and impersonates you at your own address. Four controls that prevent nearly all of it.
+- [SPF, DKIM and DMARC: why your email stopped arriving](https://www.sevenlayers.online/blog/spf-dkim-dmarc-email-delivery): Since 2024 the big providers reject unauthenticated mail rather than filtering it. Three DNS records decide whether you reach the inbox or the bin.
+- [What "modern hosting" actually means, and how to check yours](https://www.sevenlayers.online/blog/modern-hosting-http3-tls): HTTP/3, TLS 1.3, IPv6, HTTP/2 — four things you can check in two minutes that tell you whether your host is maintained or coasting on 2015.
+- [Managed WordPress hosting: worth the premium?](https://www.sevenlayers.online/blog/managed-wordpress-hosting-worth-it): Four to ten times the price of shared hosting for the same site. What you're actually buying, and the honest test for whether it's worth it for you.
+- [Moving a website without downtime (or losing your email)](https://www.sevenlayers.online/blog/website-migration-without-downtime): Migrations go wrong in predictable ways. The TTL trick, the order of operations, and the one mistake that takes email down for a day.
+- [Green hosting: what's real and what's a certificate](https://www.sevenlayers.online/blog/green-hosting-what-is-real): Data centres use about as much electricity as aviation. Green hosting is a real choice — but there is a difference between buying power and buying paperwork.
+- [Managing multiple iDRACs: the one-tab-per-server problem](https://www.sevenlayers.online/blog/managing-multiple-idrac-instances): iDRAC is excellent at one server and says nothing about fifty. How teams actually answer estate-wide questions, and the point at which tabs stop scaling.
+- [Dell OpenManage Enterprise: where it fits, and where it doesn't](https://www.sevenlayers.online/blog/openmanage-enterprise-where-it-fits): OME is capable, free with the hardware and the right first answer for most Dell estates. An honest look at what it does well and when teams outgrow it.
+- [Why we charge £999 when agencies quote £5,000](https://www.sevenlayers.online/blog/why-our-websites-cost-less-than-an-agency): UK agencies charge £1,500 to £10,000 for a small business site. We start at £999. Here is exactly where the difference comes from — and when to pay more.
+- [What a domain name actually is (and who really owns it)](https://www.sevenlayers.online/blog/what-is-a-domain-name): You don't buy a domain, you rent it. Here's what registries, registrars and nameservers each do, and why knowing the difference saves you at the worst moment.
+- [Choosing a domain in 2026: .com, .co.uk, or something newer?](https://www.sevenlayers.online/blog/choosing-a-domain-2026): The extension matters less than it used to and the renewal price matters more. How to pick a name, and the pricing trick that catches almost everyone.
+- [The .io question: when a domain depends on a country existing](https://www.sevenlayers.online/blog/io-domain-country-code-risk): Thousands of tech businesses run on .io, a domain tied to a territory being handed to Mauritius. A real case study in why the extension is a business decision.
+- [What web hosting actually is, and what you're paying for](https://www.sevenlayers.online/blog/what-is-web-hosting): Hosting is renting a computer that is always on. Here's what separates £3 a month from £300, and which of those differences will ever matter to you.
+- [Types of hosting compared: shared, VPS, cloud, managed, static](https://www.sevenlayers.online/blog/types-of-hosting-compared): Five kinds of hosting, what each is genuinely for, and the honest answer to which one your site needs — including when the cheapest option is the right one.
+- [Buy Now Pay Later at the UK checkout: worth it or not?](https://www.sevenlayers.online/blog/buy-now-pay-later-uk-checkout): 42% of UK adults have used BNPL and half of retailers report a revenue lift. The honest trade-off: fees, the 2026 regulation, and who it suits.
+- [Windows 10 is out of support. What that means for your business.](https://www.sevenlayers.online/blog/windows-10-end-of-support-business-machines): Standard support ended in October 2025. Without Extended Security Updates, new flaws stay unfixed. How to work out what you have and what to do.
+- [Cyber Essentials changed in April 2026. MFA is now pass or fail.](https://www.sevenlayers.online/blog/cyber-essentials-2026-mfa-changes): Version 3.3 landed on 27 April 2026. Missing MFA on a cloud service is now an automatic fail — no warnings, no exception for paid-only tiers.
+- [Your Google Business Profile is not set-and-forget any more](https://www.sevenlayers.online/blog/google-business-profile-not-set-and-forget): Local search leaned harder on relevance and engagement through 2026. Completeness, activity and answered questions now separate first place from fifth.
+- [The European Accessibility Act and UK businesses](https://www.sevenlayers.online/blog/european-accessibility-act-uk-businesses): Since June 2025, e-commerce sold into the EU must be accessible, and UK sellers can be in scope. What it requires, the narrow 2030 rule, and what to do first.
+- [AI shopping agents are buying things. Can they buy from you?](https://www.sevenlayers.online/blog/ai-shopping-agents-can-they-buy-from-you): Google, OpenAI and Shopify shipped protocols letting AI agents buy. If your product data is not machine-readable, the agent picks a competitor.
+- [Your rankings held and your traffic fell. That's AI Overviews.](https://www.sevenlayers.online/blog/ai-overviews-traffic-drop-rankings-held): Same positions, fewer clicks? Nothing broke — Google started answering the question itself. What changed, how to confirm it, and what to do next.
+- [How to get cited by AI search when you're a small business](https://www.sevenlayers.online/blog/get-cited-by-ai-search-small-business): AI answers cite sources, and getting into that list is winnable for a small site. It takes specificity and currency, not a bigger budget.
+- [Social media for businesses that hate posting](https://www.sevenlayers.online/blog/social-media-for-people-who-hate-posting): You do not need to post daily, and you probably should not. A realistic approach for businesses where nobody wants to be a content creator.
+- [Technical SEO: the fixes that actually move rankings](https://www.sevenlayers.online/blog/technical-seo-that-actually-moves-rankings): Most technical SEO advice is a checklist of things that change nothing. Here are the problems that genuinely hold sites back, in the order worth fixing them.
+- [How to tell whether your marketing is actually working](https://www.sevenlayers.online/blog/is-my-marketing-actually-working): Traffic is up, enquiries are flat, and the report is forty pages. A simple way to judge whether the money is earning — without becoming an analyst.
+- [The five emails every small business should have running](https://www.sevenlayers.online/blog/five-emails-every-small-business-should-send): Not a newsletter nobody reads. Five automated messages that do their work quietly, and the order to build them in.
+- [Your logo is not your brand](https://www.sevenlayers.online/blog/your-logo-is-not-your-brand): A logo is one asset. A brand is why someone picks you over an identical competitor. What makes a small business recognisable, and what a rebrand needs.
+- [Why your Google Ads budget disappears](https://www.sevenlayers.online/blog/why-your-google-ads-budget-disappears): Most wasted ad spend is not bad luck. It is four or five default settings that suit Google more than they suit you. Here is what to check first.
+- [The startup website: what to build before you have a product](https://www.sevenlayers.online/blog/startup-website-before-you-have-a-product): Most early-stage sites are either a placeholder nobody remembers or an over-engineered platform nobody needed. What to build at each stage, and what to skip.
+- [Restaurant websites: the five things people actually came to find](https://www.sevenlayers.online/blog/restaurant-website-what-people-came-for): Hospitality sites are often the prettiest and the least useful. Almost every visitor wants one of five things — and most sites bury all five.
+- [Product photography on a small budget, and why it sells](https://www.sevenlayers.online/blog/product-photography-on-a-small-budget): For most online shops the photograph is the product page. What you can achieve with a phone, a window and an afternoon — and the mistakes that cost you orders.
+- [The construction website that wins bigger jobs](https://www.sevenlayers.online/blog/construction-website-that-wins-bigger-jobs): Trades lose work to competitors who are no better, just easier to believe. What a website has to prove, and the one section that does most of it.
+- [When custom software is worth it (and when a spreadsheet is fine)](https://www.sevenlayers.online/blog/when-custom-software-is-worth-it): Most businesses build too early or too late. A practical test for deciding which side of the line a problem sits on — including when the answer is don't build.
+- [What patients check before they book a clinic](https://www.sevenlayers.online/blog/clinic-website-what-patients-check): Healthcare buying decisions are made on trust, and most of that trust is won or lost on three pages. What a clinic website has to answer before the phone rings.
+- [The three attacks that actually hit small businesses](https://www.sevenlayers.online/blog/three-attacks-that-hit-small-businesses): Not zero-days and not nation states. The things that genuinely happen to small firms are ordinary, preventable, and rarely discussed at the right level.
+- [Your backups are not backups until you have restored one](https://www.sevenlayers.online/blog/backups-are-not-backups-until-you-restore): Most businesses that lose data had backups. What they did not have was a restore anyone had ever watched work. How to find out before it matters.
+- [Firmware and BIOS drift: the outage you can see coming](https://www.sevenlayers.online/blog/firmware-and-bios-drift): Identical servers slowly stop being identical. Drift is boring, invisible, and behind a surprising share of the failures that look random.
+- [How to keep a server hardware inventory that stays true](https://www.sevenlayers.online/blog/server-inventory-without-a-spreadsheet): Every infrastructure team has a spreadsheet that was accurate the day it was made. Here is why they rot, and how to build an inventory that describes itself.
+- [What is iDRAC? Dell's out-of-band controller in plain English](https://www.sevenlayers.online/blog/what-is-idrac-plain-english): Every Dell PowerEdge server has a small computer inside that runs whether the server is on or off. What iDRAC does, why it matters, and where it stops.
+- [What a WordPress store actually costs to run](https://www.sevenlayers.online/blog/what-a-wordpress-store-costs-to-run): The build price is the number everyone asks about. The running cost is the one that surprises them. Hosting, plugins, maintenance and hidden bills, itemised.
+- [Cash on Delivery: designing a checkout that fits it](https://www.sevenlayers.online/blog/cash-on-delivery-checkout-design): COD is not a payment method you bolt on. It changes the checkout, your returns policy and your cash flow. What to design for if customers pay at the door.
+- [Selling jewellery online: what makes it different](https://www.sevenlayers.online/blog/selling-jewellery-online-what-makes-it-different): Jewellery breaks most ecommerce templates. Here is what actually changes — photography, occasions, trust, and why bridal is one purchase rather than four.
+- [Where AI actually helps a small business — and where it doesn't](https://www.sevenlayers.online/blog/where-ai-helps-small-business-website): Past the hype, a few uses genuinely save hours a week. Several popular ones quietly damage your search rankings and your credibility.
+- [The five numbers every small business should watch](https://www.sevenlayers.online/blog/five-numbers-every-business-should-watch): Analytics dashboards show hundreds of metrics and most of them are noise. These five tell you whether your website is doing its job.
+- [Choosing the right social platform for your business](https://www.sevenlayers.online/blog/choosing-the-right-social-platform): You cannot be good on all of them, and trying is why most small business social media fails. How to pick one or two and actually commit.
+- [How to set a marketing budget when you're starting from zero](https://www.sevenlayers.online/blog/marketing-budget-from-zero): No historical data, no benchmarks, no idea what a lead should cost. Here's a way to size a first budget that won't bankrupt you or waste the money.
+- [The anatomy of a landing page that actually converts](https://www.sevenlayers.online/blog/landing-page-anatomy-that-converts): Send paid traffic to your homepage and you waste it. Here's the structure of a page built for one job, in the order visitors need it.
+- [Abandoned carts: the fixes that recover the most revenue](https://www.sevenlayers.online/blog/abandoned-cart-recovery-fixes): Most people who add to your basket never buy. A handful of unglamorous changes to your checkout will win back more of them than any discount code.
+- [International SEO: how to rank when your customers are abroad](https://www.sevenlayers.online/blog/international-seo-guide): Selling to another country is not the same as selling at home. What changes in your SEO — and what stubbornly stays the same.
+- [Accessible websites: the business case, not just the legal one](https://www.sevenlayers.online/blog/accessible-websites-business-case): Accessibility gets framed as compliance. It is really about not turning away customers who want to buy from you — and the fixes are smaller than you think.
+- [Website security basics most small businesses get wrong](https://www.sevenlayers.online/blog/website-security-basics-small-business): You don't need an enterprise security budget. You do need to get five unglamorous things right — and most sites we inherit have missed at least three.
+- [Core Web Vitals in plain English: what actually makes a site fast](https://www.sevenlayers.online/blog/core-web-vitals-plain-english): Google grades your site on three speed measurements. Here's what each one means without the jargon, and the handful of things that genuinely move them.
+- [How to prepare for a website project and keep it on budget](https://www.sevenlayers.online/blog/how-to-prepare-for-a-website-project): The projects that launch quickly all have one thing in common: a prepared client. Here's exactly what to have ready before your website build starts.
+- [Email marketing: the most underrated channel for small businesses](https://www.sevenlayers.online/blog/email-marketing-underrated-channel): No algorithm, no ad auction — just a direct line to people who already know you. Why email quietly outperforms, and how to start without being spammy.
+- [How to write website content that actually sells](https://www.sevenlayers.online/blog/write-website-content-that-sells): Most business websites describe; the good ones persuade. A practical guide to writing pages that turn readers into enquiries — no copywriting degree required.
+- [Does my small business really need branding?](https://www.sevenlayers.online/blog/does-my-small-business-need-branding): Branding sounds like something for big companies with big budgets. What it actually means for a small business, and the parts worth paying for.
+- [5 website mistakes that quietly cost small businesses customers](https://www.sevenlayers.online/blog/website-mistakes-costing-you-customers): Most business websites don't fail loudly — they leak enquiries quietly. Here are the five most common mistakes we see, and the simple fixes.
+- [Google Ads for small businesses: a plain-English starter guide](https://www.sevenlayers.online/blog/google-ads-for-small-businesses-guide): How Google Ads actually works, what a sensible starting budget looks like, and the mistakes that burn money — explained without the jargon.
+- [Shopify vs WordPress: which is right for your online store?](https://www.sevenlayers.online/blog/shopify-vs-wordpress-for-online-stores): The two most common ways to sell online, compared honestly — costs, effort, flexibility, and which one we'd recommend for your situation.
+- [Local SEO: how to get found by customers in your area](https://www.sevenlayers.online/blog/local-seo-guide-uk-small-business): For most UK small businesses, local search is the highest-value marketing there is. Here's a practical guide to showing up when nearby customers search.
+- [7 signs your business website needs a redesign](https://www.sevenlayers.online/blog/signs-your-website-needs-a-redesign): Not sure if your website is helping or hurting? Here are seven clear signs it's time for a refresh — and what a modern site should do instead.
+- [How much does a website cost in the UK? (2026 guide)](https://www.sevenlayers.online/blog/how-much-does-a-website-cost-uk): A plain-English breakdown of what a website really costs in 2026 — from simple brochure sites to Shopify stores — and what actually drives the price.
+- [SEO, Google Ads or social: which is right for you?](https://www.sevenlayers.online/blog/seo-ads-or-social-which-is-right): Not sure where to spend your marketing budget? Here's how to choose between SEO, paid ads, and social media — without the jargon.
+
+## Optional
+- [Sitemap](https://www.sevenlayers.online/sitemap.xml)
+- [Article feed](https://www.sevenlayers.online/feed.xml)
+- [Accessibility statement](https://www.sevenlayers.online/accessibility)
+- [Privacy](https://www.sevenlayers.online/privacy)

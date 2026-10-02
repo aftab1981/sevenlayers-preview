@@ -1,0 +1,60 @@
+# Security headers for the static build.
+#
+# `headers()` in next.config.ts only runs on a server, and a static export has
+# none, so these are re-declared here. Cloudflare Pages reads this file from the
+# build output root and applies it at the edge. Netlify reads the same format,
+# so this is not Cloudflare-specific lock-in.
+#
+# Keep in sync with `securityHeaders` in next.config.ts — that array is still
+# what a server build uses.
+
+# Content-Security-Policy — what the browser may load, and from where.
+#
+# The whole list of third parties this site talks to: Web3Forms (the three
+# forms), open.er-api.com (currency rates), Plausible (only if analytics is
+# switched on) and Cloudflare's own analytics beacon, which the edge can
+# inject. Anything else is refused, so a script injected through a
+# compromised dependency or a crafted link cannot load code from elsewhere
+# or send data anywhere.
+#
+# 'unsafe-inline' on script-src is the known trade-off of a static Next.js
+# export: the framework hydrates with inline scripts and there is no server
+# to add a per-request nonce. It is still bounded by everything else here —
+# no eval, no plugins, no foreign scripts, no <base> hijack, no framing, and
+# forms can only post to this site or Web3Forms.
+#
+# Keep in sync with scripts/security-scan.mjs (CSP_REQUIRED) and test with
+# the CSP sweep before adding any new third party.
+#
+# Comments live out here, not inside the block below: Cloudflare reads every
+# indented line in a block as a header.
+
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+  Cross-Origin-Opener-Policy: same-origin
+  X-Permitted-Cross-Domain-Policies: none
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://plausible.io https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self' https://api.web3forms.com https://open.er-api.com https://plausible.io https://cloudflareinsights.com; media-src 'self'; worker-src 'self' blob:; manifest-src 'self'; frame-src 'none'; child-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self' https://api.web3forms.com; frame-ancestors 'self'; upgrade-insecure-requests
+
+# Hashed build assets are immutable — their filename changes when the content
+# does, so they can be cached hard. This is the one thing a static host does
+# better than a server for free.
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# The generated social cards (opengraph-image routes) are exported as files
+# with no extension, so the asset server cannot infer a type and sends none.
+# Combined with `nosniff` above, a strict client is then entitled to refuse the
+# image — which is how a link shared on LinkedIn or WhatsApp ends up with no
+# preview. They are all 1200x630 PNGs.
+/opengraph-image
+  Content-Type: image/png
+
+/*/opengraph-image
+  Content-Type: image/png

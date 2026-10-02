@@ -1,0 +1,31 @@
+# Files in the deployed directory that must NOT be served as part of the site.
+#
+# Cloudflare clones the mirror repository and treats the whole checkout as the
+# asset directory, so without this it uploads the repository's own plumbing.
+# The first deploy attempt read 1830 files and was uploading `.git/config`,
+# `.git/logs/**` and the sample hooks — publishing the repository's internals
+# at the site's own domain. The mirror is a public repo so nothing there is
+# secret, but a live `.git` directory on a business website is the kind of
+# thing a scanner flags within the hour, and it is a third of the upload for
+# nothing.
+#
+# gitignore-style patterns, read by Wrangler from the root of the asset
+# directory at deploy time.
+
+.git
+.git/**
+.gitignore
+.assetsignore
+
+# Wrangler's own scratch and the config file it generates in CI.
+.wrangler
+.wrangler/**
+wrangler.jsonc
+wrangler.toml
+
+# The note explaining the mirror to anyone who lands on the repo. It is for
+# readers of the repository, not visitors to the site.
+README.md
+
+# GitHub Pages marker written by the deploy workflow; meaningless here.
+.nojekyll
